@@ -1,0 +1,12 @@
+.charts{
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 1%;
+}
+body{
+    margin: 0 !important;
+    background: darkorchid !important;
+}
+#root{
+    margin-bottom: 100px;
+}
